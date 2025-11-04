@@ -1,6 +1,6 @@
 # 2025 Posit Table Contest 
 
-## Stock Market Dashboard with Advanced Analytics (R Shiny & GT)
+## Stock Market Dashboard with Advanced Analytics (R Shiny & GT Packages)
 
 ### Full Description
 
